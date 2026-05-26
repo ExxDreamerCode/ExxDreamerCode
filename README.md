@@ -9,8 +9,8 @@
 
 ### [Chess Engine](https://github.com/ExxDreamerCode/chess_engine)
 Шахматный движок с графическим интерфейсом и ИИ. 
-- Minimax с альфа-бета отсечением
-- Дебютная книга (50+ вариантов)
+- Negamax с альфа-бета отсечением
+- Дебютная книга
 - Полная поддержка правил шахмат
 
 ### [Godot Messenger](https://github.com/ExxDreamerCode/godot_messenger)
