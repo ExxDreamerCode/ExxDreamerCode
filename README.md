@@ -12,7 +12,6 @@
 - Negamax с альфа-бета отсечением, PVS
 - Тихий поиск с SEE и дельта-отсечением
 - Транспозиционная таблица, Killer/History/Counter moves
-**Статус**: пре-релиз, в активной разработке.
 
 ### [Python Chess Engine](https://github.com/ExxDreamerCode/chess_engine)
 Шахматный движок с графическим интерфейсом и ИИ. 
@@ -36,7 +35,7 @@
 - Telegram: @Dreamer_hehehe
 
 ## 🎯 Сейчас работаю над
-- Улучшения моего движка Ember
+- Улучшениями моего движка Ember
 ___
 
 ![Visitors](https://komarev.com/ghpvc/?username=ExxDreamerCode&color=brightgreen)
