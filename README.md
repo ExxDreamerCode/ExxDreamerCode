@@ -2,12 +2,19 @@
 
 ## 🧑‍💻 Обо мне
 - 🇷🇺 Из России
-- 💻 Программирую на Python
-- ♟️ Автор шахматного движка
+- 💻 Программирую на Python и Rust
+- ♟️ Автор двух шахматных движков
 
 ## 🚀 Мои проекты
 
-### [Chess Engine](https://github.com/ExxDreamerCode/chess_engine)
+### [Rust Chess Engine](https://github.com/ExxDreamerCode/Ember)
+Шахматный движок с графическим интерфейсом и ИИ. 
+- Negamax с альфа-бета отсечением, PVS
+- Тихий поиск с SEE и дельта-отсечением
+- Транспозиционная таблица, Killer/History/Counter moves
+**Статус**: пре-релиз, в активной разработке.
+
+### [Python Chess Engine](https://github.com/ExxDreamerCode/chess_engine)
 Шахматный движок с графическим интерфейсом и ИИ. 
 - Negamax с альфа-бета отсечением
 - Дебютная книга
@@ -29,7 +36,7 @@
 - Telegram: @Dreamer_hehehe
 
 ## 🎯 Сейчас работаю над
-- Nope
+- Улучшения моего движка Ember
 ___
 
 ![Visitors](https://komarev.com/ghpvc/?username=ExxDreamerCode&color=brightgreen)
