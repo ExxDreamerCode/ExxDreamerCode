@@ -9,7 +9,7 @@
 
 ### [Rust Chess Engine](https://github.com/ExxDreamerCode/Ember)
 Шахматный движок с графическим интерфейсом и ИИ. 
-- Negamax с альфа-бета отсечением, PVS
+- Собственный, тренированный мной NNUE
 - Тихий поиск с SEE и дельта-отсечением
 - Транспозиционная таблица, Killer/History/Counter moves
 
@@ -36,6 +36,7 @@
 
 ## 🎯 Сейчас работаю над
 - Улучшениями моего движка Ember
+- Улучшением DeepSight
 ___
 
 ![Visitors](https://komarev.com/ghpvc/?username=ExxDreamerCode&color=brightgreen)
