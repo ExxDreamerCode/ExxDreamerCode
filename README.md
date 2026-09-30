@@ -32,6 +32,8 @@ Ember plays on CCRL: **Blitz 3381 ± 21** (575 games), **40/15 3277** (6 games),
 
 <sub>Desktop analyzer for chess games · [repo](https://github.com/ExxDreamerCode/DeepSight)</sub>
 
+<img alt="DeepSight window: chessboard, evaluation bar and side panels" src="assets/deepsight.png" width="860">
+
 - Loads PGN files or pasted PGN text, or sets any position by FEN; then scores every move in centipawns or mate.
 - Classifies moves (book, best, inaccuracy, blunder), draws the eval bar and the engine's suggested move, and gives a live eval without a full run.
 - Navigation from the keyboard: <kbd>←</kbd> <kbd>→</kbd> for moves, <kbd>Home</kbd> <kbd>End</kbd> for the ends of the game. Any UCI engine can be attached, not only the built-ins.
@@ -40,6 +42,8 @@ Ember plays on CCRL: **Blitz 3381 ± 21** (575 games), **40/15 3277** (6 games),
 ### Aurora Player
 
 <sub>Native IPTV player for Windows · [repo](https://github.com/ExxDreamerCode/AuroraPlayer)</sub>
+
+<img alt="Aurora Player window: playlist panel with a channel list and the player area" src="assets/aurora-player.png" width="860">
 
 - Paste an M3U playlist link and it loads every channel, or paste a direct stream link and it creates a single one.
 - Reads `tvg-logo` and `group-title` out of the playlist, so channels arrive with logos and groups; adds search, favourites, a 20-entry history and playlists that survive a restart.
