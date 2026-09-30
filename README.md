@@ -43,7 +43,7 @@ Ember plays on CCRL: **Blitz 3381 ± 21** (575 games), **40/15 3277** (6 games),
 
 <sub>Native IPTV player for Windows · [repo](https://github.com/ExxDreamerCode/AuroraPlayer)</sub>
 
-<img alt="Aurora Player window: playlist panel with a channel list and the player area" src="assets/aurora-player.png" width="860">
+<img alt="Aurora Player window: playlist panel with a channel list and the player area" src="assets/aurora-player-en.png" width="860">
 
 - Paste an M3U playlist link and it loads every channel, or paste a direct stream link and it creates a single one.
 - Reads `tvg-logo` and `group-title` out of the playlist, so channels arrive with logos and groups; adds search, favourites, a 20-entry history and playlists that survive a restart.
