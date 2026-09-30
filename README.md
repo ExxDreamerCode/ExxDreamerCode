@@ -19,6 +19,11 @@ Rust and Python. Mostly chess software.
 
 Ember plays on CCRL: **Blitz 3381 ± 21** (575 games), **40/15 3277** (6 games), **FRC 3200 ± 21** — rank 86. The three lists are not comparable with each other.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ember-rating-dark.png">
+  <img alt="Ember rating growth from 0.9.1 to 1.3.1: solid points with error bars are measured CCRL Blitz ratings, hollow points on a dashed line are unrated estimates" src="assets/ember-rating-light.png" width="860">
+</picture>
+
 - **NNUE** — own networks in two formats: V1 half-features with king buckets, optional threat inputs and `CReLU`/`SCReLU`/pairwise activations, V2 a semi-transformer with PSQ and threat function stacks. Compact `ECN1` storage; trained with the repo's PyTorch and Bullet tooling.
 - **Search** — quiescence with SEE and delta pruning, transposition table, killer/history/counter moves, Lazy SMP, Syzygy tablebases up to 6 pieces, Polyglot books with an embedded default.
 - **Build** — pinned nightly toolchain, reproducible Nix builds, PGO data, a portable Windows bundle, and a `bench` command that reports a reproducible node signature.
