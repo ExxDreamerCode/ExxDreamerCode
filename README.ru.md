@@ -17,6 +17,8 @@ Rust и Python. В основном шахматный софт.
 
 <sub>Шахматный движок UCI · [репозиторий](https://github.com/ExxDreamerCode/Ember) · [релизы](https://github.com/ExxDreamerCode/Ember/releases/latest) · [BUILD.md](https://github.com/ExxDreamerCode/Ember/blob/main/BUILD.md)</sub>
 
+Совместно с [@starius](https://github.com/starius).
+
 Ember играет на CCRL: **Blitz 3381 ± 21** (575 партий), **40/15 3277** (6 партий), **FRC 3200 ± 21** — 86-е место. Три списка между собой не сравнимы.
 
 <picture>
@@ -52,6 +54,8 @@ Ember играет на CCRL: **Blitz 3381 ± 21** (575 партий), **40/15 3
 ### Hollow Knight AI
 
 <sub>Обучение с подкреплением против боссов Hollow Knight · [репозиторий](https://github.com/ADIMIR21/Hollow-Knight-Bot)</sub>
+
+Совместно с [Adimir](https://github.com/ADIMIR21).
 
 - Мод на C# отдаёт телеметрию через именованный канал `\\.\pipe\hk_ai_mod` на ~60 Гц — позиции игрока и босса, HP, душа, флаги состояний, счётчики попаданий — а watchdog починяет зависшие переходы между сценами.
 - Python-часть — среда Gymnasium с обучением PPO (Stable-Baselines3): 19 дискретных действий, награды и логика эпизода под каждого босса, чекпоинты разложены по боссам.

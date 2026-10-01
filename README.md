@@ -17,6 +17,8 @@ Rust and Python. Mostly chess software.
 
 <sub>UCI chess engine · [repo](https://github.com/ExxDreamerCode/Ember) · [releases](https://github.com/ExxDreamerCode/Ember/releases/latest) · [BUILD.md](https://github.com/ExxDreamerCode/Ember/blob/main/BUILD.md)</sub>
 
+Built together with [@starius](https://github.com/starius).
+
 Ember plays on CCRL: **Blitz 3381 ± 21** (575 games), **40/15 3277** (6 games), **FRC 3200 ± 21** — rank 86. The three lists are not comparable with each other.
 
 <picture>
@@ -52,6 +54,8 @@ Ember plays on CCRL: **Blitz 3381 ± 21** (575 games), **40/15 3277** (6 games),
 ### Hollow Knight AI
 
 <sub>Reinforcement learning against Hollow Knight bosses · [repo](https://github.com/ADIMIR21/Hollow-Knight-Bot)</sub>
+
+Built together with [Adimir](https://github.com/ADIMIR21).
 
 - A C# mod exports telemetry over the `\\.\pipe\hk_ai_mod` named pipe at ~60 Hz — player and boss position, HP, soul, state flags, hit counters — and a watchdog repairs scene transitions that hang.
 - The Python side is a Gymnasium environment trained with PPO (Stable-Baselines3): 19 discrete actions, rewards and episode logic per boss, checkpoints laid out per boss.
