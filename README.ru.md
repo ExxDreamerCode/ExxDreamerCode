@@ -34,6 +34,8 @@ Ember играет на CCRL: **Blitz 3381 ± 21** (575 партий), **40/15 3
 
 <sub>Десктопный анализатор шахматных партий · [репозиторий](https://github.com/ExxDreamerCode/DeepSight)</sub>
 
+При участии [@starius](https://github.com/starius).
+
 <img alt="Окно DeepSight: доска, шкала оценки и боковые панели" src="assets/deepsight.png" width="860">
 
 - Загружает PGN-файлы или вставленный текст PGN либо ставит любую позицию по FEN, а дальше оценивает каждый ход в центипешках или мате.

@@ -34,6 +34,8 @@ Ember plays on CCRL: **Blitz 3381 ± 21** (575 games), **40/15 3277** (6 games),
 
 <sub>Desktop analyzer for chess games · [repo](https://github.com/ExxDreamerCode/DeepSight)</sub>
 
+With contributions from [@starius](https://github.com/starius).
+
 <img alt="DeepSight window: chessboard, evaluation bar and side panels" src="assets/deepsight.png" width="860">
 
 - Loads PGN files or pasted PGN text, or sets any position by FEN; then scores every move in centipawns or mate.
