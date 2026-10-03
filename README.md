@@ -19,7 +19,7 @@ Rust and Python. Mostly chess software.
 
 Built together with [@starius](https://github.com/starius).
 
-Ember plays on CCRL: **Blitz 3389 ± 16** (1024 games), **40/15 3361 ± 98** (25 games), **FRC 3200 ± 21**. The three lists are not comparable with each other.
+Ember plays on CCRL: **Blitz 3389 ± 16** (1024 games), **40/15 3361 ± 98** (25 games), **FRC 3200 ± 21** (750 games). The three lists are not comparable with each other.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ember-rating-dark.png">
