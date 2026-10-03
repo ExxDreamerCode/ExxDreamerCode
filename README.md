@@ -8,7 +8,7 @@ Rust and Python. Mostly chess software.
 
 | | Project | What it is | Built with | Measured |
 | :-: | --- | --- | --- | --- |
-| 1 | **[Ember](https://github.com/ExxDreamerCode/Ember)** | UCI chess engine | Rust — 31k lines, 57 files | CCRL Blitz **3381 ± 21** over 575 games |
+| 1 | **[Ember](https://github.com/ExxDreamerCode/Ember)** | UCI chess engine | Rust — 31k lines, 57 files | CCRL Blitz **3389 ± 16** over 1024 games |
 | 2 | **[DeepSight](https://github.com/ExxDreamerCode/DeepSight)** | Chess game analyzer, desktop GUI | Python 3.11, PyQt6 | ships Ember and Stockfish as built-ins |
 | 3 | **[Aurora Player](https://github.com/ExxDreamerCode/AuroraPlayer)** | IPTV player for Windows | Tauri 2, Rust, React 19, hls.js | M3U in, channel list out — groups, search, PiP |
 | 4 | **[Hollow Knight AI](https://github.com/ADIMIR21/Hollow-Knight-Bot)** | PPO agent learning to fight Pantheon bosses | Python + Stable-Baselines3, C# mod | 19 actions, telemetry at ~60 Hz |
@@ -19,7 +19,7 @@ Rust and Python. Mostly chess software.
 
 Built together with [@starius](https://github.com/starius).
 
-Ember plays on CCRL: **Blitz 3381 ± 21** (575 games), **40/15 3277** (6 games), **FRC 3200 ± 21** — rank 86. The three lists are not comparable with each other.
+Ember plays on CCRL: **Blitz 3389 ± 16** (1024 games), **40/15 3361 ± 98** (25 games), **FRC 3200 ± 21**. The three lists are not comparable with each other.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ember-rating-dark.png">
