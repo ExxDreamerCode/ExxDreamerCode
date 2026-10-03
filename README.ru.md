@@ -8,7 +8,7 @@ Rust и Python. В основном шахматный софт.
 
 | | Проект | Что это | На чём | В цифрах |
 | :-: | --- | --- | --- | --- |
-| 1 | **[Ember](https://github.com/ExxDreamerCode/Ember)** | Шахматный движок с протоколом UCI | Rust — 31 тыс. строк, 57 файлов | CCRL Blitz **3381 ± 21** на 575 партиях |
+| 1 | **[Ember](https://github.com/ExxDreamerCode/Ember)** | Шахматный движок с протоколом UCI | Rust — 31 тыс. строк, 57 файлов | CCRL Blitz **3389 ± 16** на 1024 партиях |
 | 2 | **[DeepSight](https://github.com/ExxDreamerCode/DeepSight)** | Анализатор партий с графическим интерфейсом | Python 3.11, PyQt6 | Ember и Stockfish внутри сборки |
 | 3 | **[Aurora Player](https://github.com/ExxDreamerCode/AuroraPlayer)** | IPTV-плеер для Windows | Tauri 2, Rust, React 19, hls.js | M3U на входе, список каналов на выходе: группы, поиск, PiP |
 | 4 | **[Hollow Knight AI](https://github.com/ADIMIR21/Hollow-Knight-Bot)** | Агент на PPO учится драться с боссами Пантеона | Python + Stable-Baselines3, мод на C# | 19 действий, телеметрия на ~60 Гц |
@@ -19,7 +19,7 @@ Rust и Python. В основном шахматный софт.
 
 Совместно с [@starius](https://github.com/starius).
 
-Ember играет на CCRL: **Blitz 3381 ± 21** (575 партий), **40/15 3277** (6 партий), **FRC 3200 ± 21** — 86-е место. Три списка между собой не сравнимы.
+Ember играет на CCRL: **Blitz 3389 ± 16** (1024 партии), **40/15 3361 ± 98** (25 партий), **FRC 3200 ± 21** (750 партий). Три списка между собой не сравнимы.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ember-rating-dark.png">
