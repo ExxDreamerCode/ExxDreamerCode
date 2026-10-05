@@ -19,7 +19,7 @@ Rust и Python. В основном шахматный софт.
 
 Совместно с [@starius](https://github.com/starius).
 
-Ember играет на CCRL: **Blitz 3389 ± 16** (1024 партии), **40/15 3361 ± 98** (25 партий), **FRC 3200 ± 21** (750 партий). Три списка между собой не сравнимы.
+Ember играет на CCRL: **Blitz 3389 ± 16** (1024 партии), **40/15 3361 ± 98** (25 партий), **FRC 3395 ± 16** (1115 партий). Три списка между собой не сравнимы.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ember-rating-dark.png">
